@@ -1,0 +1,246 @@
+* {
+    padding: 3px;
+    margin: auto;
+}
+
+#main {
+    background-color: #f2f2fd;
+    background-position: center;
+    height:1800px;
+}
+
+.logo {
+    width: 201px;
+    height: 31px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.navi {
+    margin-left: 380px;
+    margin-top: -48px;
+    font-size: x-large;
+}
+
+ul li a{
+    text-decoration: none;
+    color: blue;
+}
+
+ul li a:hover {
+    color: red;
+    background-color: black;
+}
+
+ul li{
+    display: inline-flex;
+    padding-right: 56px;
+}
+
+
+
+#model {
+    border: none;
+    color: blue;
+    /* text-decoration: none; */
+    background-color: #f2f2fd;
+    font-size: smaller;
+}
+
+.src {
+    margin-top: -36px;
+    margin-left: 1772px;
+}
+
+.box {
+    width: 108px;
+}
+
+.pro {
+    width: 359px;
+    height: 406px;
+}
+
+h3 {
+    margin-left: 66px;
+    margin-top: -29px;
+}
+
+h4 {
+    margin-left: 67px;
+    margin-top: 9px;
+}
+
+.qun{
+    margin-left: 65px;
+    -webkit-text-stroke: medium;
+    margin-top: 5px;
+}
+
+.sbi {
+    margin-top: 4px;
+    margin-left: -3px;
+}
+
+.col {
+    margin-left: 65px;
+    -webkit-text-stroke: medium;
+}
+
+.rs {
+margin-left: 62px;
+}
+
+
+#css {
+    margin-left: 66px;
+    font-size: larger;
+    background: crimson;
+    color: wheat;
+}
+
+.container {
+    margin-top: -614px;
+    margin-left: 358px;
+    display: table;
+}
+
+.pp {
+    height: 339px;
+    margin-top: 33px;
+}
+
+.dis {
+    margin-top: 25px;
+    margin-left: -22px;
+}
+
+
+.test {
+    display: table;
+    margin-top: -565px;
+    margin-left: 709px;
+}
+
+.sm {
+    margin-top: -47px;
+    width: 362px;
+    height: 395px;
+}
+
+.cric {
+    display: table;
+    margin-left: 1072px;
+    margin-top: -562px;
+}
+
+.oppo {
+    width: 328px;
+    height: 352px;
+    margin-top: -26px;
+}
+
+.op {
+    
+    margin-top: -9px;
+}
+
+.run {
+    display: table;
+    margin-left: 1408px;
+    margin-top: -578px;
+}
+
+.vio {
+    width: 338px;
+    height: 398px;
+    margin-top: -29px;
+}
+
+.v17 {
+    margin-top: -33px;
+}
+
+.mi {
+    display: table-caption;
+    margin-top: 79px;
+    margin-left: -17px;
+}
+
+.mi10 {
+    width: 351px;
+    height: 376px; 
+    margin-top: -42px;
+    margin-left: 7px;
+}
+
+.redmi {
+    margin-top: -44px;
+}
+
+.grd {
+    margin-left: 16px;
+}
+
+.mi7 {
+    width: 379px;
+    height: 363px;
+    margin-top: 9px;
+}
+
+.clbt {
+    display: table;
+    margin-left: 339px;
+    margin-top: -584px;
+}
+
+.ssct {
+    margin-top: 7px;
+}
+
+.pot {
+    width: 363px;
+    height: 345px;
+    margin-top: 58px;
+    margin-left: -2px;
+}
+
+.mi11 {
+    display: table;
+    margin-left: 706px;
+    margin-top: -618px;
+}
+
+.note5 {
+    display: table;
+    margin-right: 500px;
+    margin-top: -616px;
+    margin-left: 1069px;
+}
+
+.low {
+    width: 347px;
+    height: 370px;
+    margin-top: 41px;
+}
+
+.con {
+    margin-top: -38px;
+}
+
+.real {
+    display: table;
+    margin-right: 261px;
+    margin-top: -636px;
+}
+
+.rea5 {
+    width: 283px;
+    height: 328px;
+    margin-top: 82px;
+}
+
+.ccl {
+    margin-top: 17px;
+    margin-left: -23px;
+}
